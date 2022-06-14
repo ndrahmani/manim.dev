@@ -1,3 +1,3 @@
 ---
-title:  "Manim Jobs"
+title:  "Jobs"
 ---
