@@ -1,7 +1,8 @@
 # Site settings
 title: Manim Jobs
 # email:
-description: "Job Board for Manim Developers | Hire Manim Developers to produce your math animations using Manim"
+# description: "Job Board for Manim Developers | Hire Manim Developers to produce your math animations using Manim"
+description: "Job Board for Manim Developers"
 # url: "https://manimjobs.xyz"
 # baseurl: ""
 # twitter_username: ""
@@ -9,7 +10,7 @@ description: "Job Board for Manim Developers | Hire Manim Developers to produce 
 # Build settings
 markdown: kramdown
 permalink: pretty
-theme: "minima"
+# theme: "minima"
 
 plugins:
   - jekyll-sitemap
@@ -21,6 +22,5 @@ kramdown:
   parse_block_html: true
 
 highlighter: rouge
-
 
 excerpt_separator: <!--more-->
