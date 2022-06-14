@@ -1,5 +1,5 @@
 # Site settings
-title: Manim Jobs
+title: Manim Devs
 # email:
 # description: "Job Board for Manim Developers | Hire Manim Developers to produce your math animations using Manim"
 description: "Job Board for Manim Developers"
@@ -10,12 +10,19 @@ description: "Job Board for Manim Developers"
 # Build settings
 markdown: kramdown
 permalink: pretty
-# theme: "minima"
+theme: "minima"
 
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
+header_pages:
+  - devs.md
+  - jobs.md
+  - about.md
+
+minima:
+  skin: dark
 
 # configure kramdown
 kramdown:
