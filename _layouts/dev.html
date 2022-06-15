@@ -12,14 +12,20 @@
   </span>
   <br />
   {%- if page.youtube_portfolio_id -%}
-  <iframe
-    width="480px"
-    height="270"
-    src="https://www.youtube.com/embed/{{ page.youtube_portfolio_id}}"
-    frameborder="0"
-    style="display: block; margin: 0 auto; padding: 1em"
-    allowfullscreen
-  ></iframe>
+  <div class="video-container-container">
+    <div class="video-container">
+      <iframe
+        width="480px"
+        height="270"
+        src="https://www.youtube.com/embed/{{ page.youtube_portfolio_id}}"
+        frameborder="0"
+        <!--
+        style="--"
+      >
+        allowfullscreen ></iframe
+      >
+    </div>
+  </div>
   {%- endif -%} {%- if page.github -%}
   <p class="dev-github">
     <b>GitHub:</b>&nbsp;<a
