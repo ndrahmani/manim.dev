@@ -3,7 +3,7 @@ layout: page
 title: "Adding yourself to the roster"
 ---
 
-To add yourself to theroster,
+To add yourself to the roster,
 
 1. Visit the <a target="_blank" href="https://github.com/MathBlocks/manim.dev/tree/main/_devs">GitHub repo</a> of this website.
 
