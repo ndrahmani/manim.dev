@@ -1,8 +1,8 @@
 # Site settings
-title: Manim Devs
+title: manim.dev
 # email:
 # description: "Job Board for Manim Developers | Hire Manim Developers to produce your math animations using Manim"
-description: "Job Board for Manim Developers"
+description: "A Roster and Job Board for Manim Developers"
 # url: "https://manimjobs.xyz"
 # baseurl: ""
 # twitter_username: ""
@@ -10,15 +10,19 @@ description: "Job Board for Manim Developers"
 # Build settings
 markdown: kramdown
 permalink: pretty
-theme: "minima"
+# theme: "minima"
+remote_theme: jekyll/minima
+
+collections:
+  devs:
+    output: true
 
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-remote-theme
 
 header_pages:
-  - devs.md
-  - jobs.md
   - about.md
 
 minima:

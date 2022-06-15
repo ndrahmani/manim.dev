@@ -1,0 +1,28 @@
+<div style="border: 1px solid gray; padding: 1.5em; margin-bottom: 1em;">
+  <span style="display: inline">
+    <img
+      src="{{ page.image_url }}"
+      height="48px"
+      width="48px"
+      style="border-radius: 50%"
+    />
+    <span class="dev-name" style="padding-left: 1ex; font-size: large">
+      {{ page.name | escape }}
+    </span>
+  </span>
+  <br />
+  {%- if page.youtube_portfolio -%}
+  <iframe
+    width="480px"
+    height="270"
+    src="https://www.youtube.com/embed/{{ page.youtube_portfolio}}"
+    frameborder="0"
+    style="display: block; margin: 0 auto; padding: 1em"
+    allowfullscreen
+  ></iframe>
+  {%- endif -%} {%- if page.background -%}
+  <p class="dev-background"><b>Background:</b>&nbsp;{{ page.background }}</p>
+  {%- endif -%} {%- if page.availability -%}
+  <p class="dev-status"><b>Availability:</b>&nbsp;{{ page.availability }}</p>
+  {%- endif -%}
+</div>
