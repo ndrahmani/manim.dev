@@ -1,8 +1,7 @@
 ---
 layout: page
+title: "Adding yourself to the roster"
 ---
-
-# Adding yourself to the roster
 
 To add yourself to theroster,
 
