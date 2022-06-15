@@ -24,6 +24,7 @@ plugins:
 
 header_pages:
   - about.md
+  - resources.md
 
 minima:
   skin: dark
