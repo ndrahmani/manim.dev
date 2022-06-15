@@ -4,8 +4,12 @@ layout: home
 
 <h1>Manim Developers for Hire</h1>
 
-{%- for dev in site.devs -%} {{ dev }} {%- endfor -%}
+<div class="card-container">
+  {%- for dev in site.devs -%} {% include card.html dev=dev %} {%- endfor -%}
+</div>
+
 <br />
+
 Check out <a href="/add-dev">this page</a> if you'd like to add yourself to the
 roster.
 

@@ -3,7 +3,7 @@ layout: page
 title:  "About"
 ---
 
-𝚖𝚊𝚗𝚒𝚖.𝚍𝚎𝚟 is a roster and job board for hiring Manim developers. Our goal is to collect useful information in one place and improve the discoverability of developers.
+𝚖𝚊𝚗𝚒𝚖.𝚍𝚎𝚟 is a roster and job board for Manim developers. Our goal is to offer useful information in one place and improve the discoverability of developers.
 
 ## About Manim
 
@@ -11,7 +11,7 @@ title:  "About"
 
 Manim has since been adopted by a group of developers, who forked it mid-2020 into what is now known as the [community edition](https://manim.community). Grant on the other hand still continues to produce videos using [his original branch](https://3b1b.github.io/manim/), having added OpenGL support. There are ongoing efforts in the Manim Community to reconcile these changes into the community edition. Check out [this webpage](https://docs.manim.community/en/stable/installation/versions.html) for more information on the different versions of Manim currently under development.
 
-## When your should use Manim
+## Do you need Manim?
 
 Manim is most suited for cases where you can animate something more **efficiently by writing a program for it**, instead of doing it manually. Grant Sanderson [gives the following advice](https://youtu.be/ruUfqQPDdDs?t=138):
 

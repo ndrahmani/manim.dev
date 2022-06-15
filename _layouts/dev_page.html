@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<span style="display: inline">
+  <img
+    src="{{ page.profile_pic_url }}"
+    height="48px"
+    width="48px"
+    style="border-radius: 50%"
+  />
+  <span class="dev-name" style="padding-left: 1ex; font-size: large">
+    {{ page.name | escape }}
+  </span>
+</span>
+<br />
+{%- if page.youtube_portfolio_id -%}
+
+{% include youtube_vid.html id=page.youtube_portfolio_id width="640px" height="480px" %}
+
+{%- endif -%} {%- if page.github -%}
+<p class="dev-github">
+  <b>GitHub:</b>&nbsp;<a
+    target="_blank"
+    href="https://github.com/{{ page.github }}"
+    >{{ page.github }}</a
+  >
+</p>
+{%- endif -%} {%- if page.website -%}
+<p class="dev-website">
+  <b>Website:</b>&nbsp;<a target="_blank" href="https://{{ page.website }}"
+    >{{ page.website }}</a
+  >
+</p>
+{%- endif -%} {%- if page.discord_id and page.discord_handle -%}
+<p class="dev-discord">
+  <b>Discord:</b>&nbsp;<a
+    target="_blank"
+    href="https://discord.com/users/{{ page.discord_id }}"
+    >{{ page.discord_handle }}</a
+  >
+</p>
+{%- endif -%} {%- if page.background -%}
+<p class="dev-background"><b>Background:</b>&nbsp;{{ page.background }}</p>
+{%- endif -%} {%- if page.availability -%}
+<p class="dev-status"><b>Availability:</b>&nbsp;{{ page.availability }}</p>
+{%- endif -%} {%- if page.timezone -%}
+<p class="dev-timezone"><b>Timezone:</b>&nbsp;{{ page.timezone }}</p>
+{%- endif -%}

@@ -1,5 +1,5 @@
 ---
-layout: dev
+layout: dev_page
 name: Theorem of Beethoven
 youtube_portfolio_id: cZr4-SZ17dE
 youtube_channel_url: https://www.youtube.com/c/TheoremofBeethoven

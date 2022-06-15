@@ -1,5 +1,5 @@
 ---
-layout: dev
+layout: dev_page
 name: Oscar Flores
 profile_pic_url: https://avatars.githubusercontent.com/u/107214458
 youtube_portfolio_id: y5DOtJfBPd4

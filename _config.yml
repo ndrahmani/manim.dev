@@ -16,6 +16,7 @@ remote_theme: jekyll/minima
 collections:
   devs:
     output: true
+    permalink: /dev/:slug
 
 plugins:
   - jekyll-sitemap
