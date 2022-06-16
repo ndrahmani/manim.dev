@@ -16,7 +16,7 @@ TBD
 
 ### Invoicing clients
 
-> ⚠️ **Invoice** your clients **each and every time** you request a payment from them.
+<div class="alert" markdown="0"><u>Invoice</u> your clients <u>each and every time</u> you request a payment from them.</div>
 
 This has a couple of advantages:
 
@@ -57,18 +57,14 @@ TBD
 
 ### Prepare a storyboard
 
-Before you let the developer start working on your animation, the **most important thing** you have to do is...
+Before you let the developer start working on your animation, the **most important thing** you have to do is:
 
-> ⚠️ **Prepare a <u>detailed storyboard</u> for the developer.** ⚠️
->
-> ⚠️ **Prepare a <u>detailed storyboard</u> for the developer.** ⚠️
->
-> ⚠️ **Prepare a <u>detailed storyboard</u> for the developer.** ⚠️
+<div class="alert" markdown="0">Prepare a <u>detailed storyboard</u> for the developer.</div>
 
-We repeat it three times, because **planning** is the most essential step in creating an animation. The developer's task is to convert already planned out scenes to code. If the scenes are not planned out in enough detail, the developer is forced to improvise. And that often leads the developer to produce results that are different than what you expect.
+**Planning** is the most essential step in creating an animation. The developer's task is to convert already planned out scenes to code. If the scenes are not planned out in enough detail, the developer is forced to improvise. And that often leads the developer to produce results that are different than what you expect.
 
-To prevent the developer from having to redo your scenes and **charging you extra**, you should add enough details to your storyboard as to leave as less ambiguity as possible. A good rule of thumb is,
+To prevent the developer from having to redo your scenes and **charging you extra**, you should add enough details to your storyboard as to leave as less ambiguity as possible. A good rule of thumb:
 
-> ⚠️ <u>One minute</u> that you spend adding details to your storyboard saves the developer <u>one hour</u> of work spent on rewriting code.
+<div class="alert" markdown="0"><u>One minute</u> that you spend adding details to your storyboard saves the developer <u>one hour</u> of work spent on rewriting code.</div>
 
 <a target="_blank" href="/storyboard">We have created a guide to help you learn how to prepare a good storyboard. <b>Click here to get started.</b></a>
