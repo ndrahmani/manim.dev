@@ -59,11 +59,11 @@ TBD
 
 Before you let the developer start working on your animation, the **most important thing** you have to do is...
 
-> ⚠️ **Prepare a good and detailed storyboard** for the developer. ⚠️
+> ⚠️ **Prepare a <u>detailed storyboard</u> for the developer.** ⚠️
 >
-> ⚠️ **Prepare a good and detailed storyboard** for the developer. ⚠️
+> ⚠️ **Prepare a <u>detailed storyboard</u> for the developer.** ⚠️
 >
-> ⚠️ **Prepare a good and detailed storyboard** for the developer. ⚠️
+> ⚠️ **Prepare a <u>detailed storyboard</u> for the developer.** ⚠️
 
 We repeat it three times, because **planning** is the most essential step in creating an animation. The developer's task is to convert already planned out scenes to code. If the scenes are not planned out in enough detail, the developer is forced to improvise. And that often leads the developer to produce results that are different than what you expect.
 

@@ -24,8 +24,8 @@ plugins:
   - jekyll-remote-theme
 
 header_pages:
-  - about.md
   - resources.md
+  - about.md
 
 minima:
   skin: dark
