@@ -57,7 +57,7 @@ TBD
 
 ### Prepare a storyboard
 
-Before you let the developer start working on your animation, the **most important thing** you have to do is:
+A <u>storyboard</u> is a collection of drawings and text that describe how the animation should play out. Before you let the developer start working on your animation, the **most important thing** you have to do is:
 
 <div class="alert" markdown="0">Prepare a <u>detailed storyboard</u> for the developer.</div>
 
