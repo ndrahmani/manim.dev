@@ -19,22 +19,22 @@ If you are going to work as a contractor, there are two ways you can bill your c
 The choice between (1) and (2) is a matter of who is going to take on the risk that the project takes longer than expected:
 
 - If you choose a flat fee, <u>you</u> (i.e. the developer) might have to work more hours for the same pay.
-- If you choose an hourly rate, the <u>client</u> might have to pay for more hours than your initial estimate and also receive the final product much later.
+- If you choose an hourly rate, the <u>client</u> might have to pay for more hours than your initial estimate and also receive the final product late.
 
 The most important thing to note is:
 
-<div class="alert" markdown="0">Manim is in <u>alpha</u> stage, so you might encounter <u>tricky bugs</u> and end up spending more hours than you expect on a project.</div>
+<div class="alert" markdown="0">Manim is in the <u>alpha</u> stage, so you might encounter <u>tricky bugs</u> and end up spending more time than you expect on a project.</div>
 
-In <u>small projects</u>, in order to prevent bad service to the client, developers tend to take on the risk themselves and <u>charge a flat fee</u>. You can also negotiate extra payment, if the client demands a major change when you are close to finishing the project. Here is an example offer:
+In <u>small projects</u>, developers tend to take on the risk themselves and <u>charge a flat fee</u>, in order to prevent a bad service to the client. You can also negotiate extra payment, if the client demands a major change while you are close to finishing the project. Here is an example offer:
 
 > The whole animation will cost you 100 USD.
 >
 > - 40 USD for the first scene.
 > - 60 USD for the second scene, because I will need to write new classes.
 >
-> Minor changes are included in the price. If you don't like the end result and will want me to do a considerable rework, I will have to charge you extra (in addition to the 100 USD).
+> Minor changes are included in the price. If it happens that you don't like the end result and would want me to do a considerable rework, I would have to charge you extra (in addition to the 100 USD).
 
-In <u>large projects</u> with longer-term employment, you might be better off charging hourly (or daily, weekly, monthly, etc.).
+On the other hand, in <u>large projects</u> with longer-term employment, you might be better off charging hourly (or daily, weekly, monthly, etc.).
 
 You can refer to this <a target="_blank" href="https://web.archive.org/web/20220620001322/https://clockify.me/blog/business/project-billing-invoicing-guide/">blog post</a> to learn more about billing your clients.
 
@@ -64,7 +64,7 @@ We created a chart that can help you to decide:
 ![Manim decision flowchart](/assets/img/manim_flowchart.svg)
 {: refdef}
 
-This advice here comes from Grant Sanderson, the creator of Manim, himself. [Click here](/do-you-need-manim#grants-advice) to watch what he has to say.
+This advice comes from Grant Sanderson, the creator of Manim, himself. [Click here](/do-you-need-manim#grants-advice) to watch what he has to say.
 
 ### Reaching out to a developer
 
