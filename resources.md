@@ -3,16 +3,40 @@ layout: page
 title: "Resources"
 ---
 
-If you want to...
+## For developers
 
-- [_work_ as a Manim Developer, **click here** to go to that section.](#resources-for-developers)
-- [_hire_ a Manim Developer, **click here** to go to that section.](#resources-for-clients)
+### Learning Manim
 
-## Resources for developers
+TBD
 
 ### How to bill your work
 
-TBD
+If you are going to work as a contractor, there are two ways you can bill your clients:
+
+1. **Flat fee:** You charge a fixed sum for each project, which includes minor changes you might need to apply after your client's feedback.
+2. **Hourly rate:** You charge per hour spent working on the project.
+
+The choice between (1) and (2) is a matter of who is going to take on the risk that the project takes longer than expected:
+
+- If you choose a flat fee, <u>you</u> (i.e. the developer) might have to work more hours for the same pay.
+- If you choose an hourly rate, the <u>client</u> might have to pay for more hours than your initial estimate and also receive the final product much later.
+
+The most important thing to note is:
+
+<div class="alert" markdown="0">Manim is in <u>alpha</u> stage, so you might encounter <u>tricky bugs</u> and end up spending more hours than you expect on a project.</div>
+
+In <u>small projects</u>, in order to prevent bad service to the client, developers tend to take on the risk themselves and <u>charge a flat fee</u>. You can also negotiate extra payment, if the client demands a major change when you are close to finishing the project. Here is an example offer:
+
+> The whole animation will cost you 100 USD.
+>
+> - 40 USD for the first scene.
+> - 60 USD for the second scene, because I will need to write new classes.
+>
+> Minor changes are included in the price. If you don't like the end result and will want me to do a considerable rework, I will have to charge you extra (in addition to the 100 USD).
+
+In <u>large projects</u> with longer-term employment, you might be better off charging hourly (or daily, weekly, monthly, etc.).
+
+You can refer to this <a target="_blank" href="https://web.archive.org/web/20220620001322/https://clockify.me/blog/business/project-billing-invoicing-guide/">blog post</a> to learn more about billing your clients.
 
 ### Invoicing clients
 
@@ -26,32 +50,23 @@ This has a couple of advantages:
 
 <a target="_blank" href="/invoice">If you have never created an invoice before, <b>click here to get started.</b></a>
 
-## Resources for clients
+## For clients
 
 ### Do you need Manim?
 
-TBD
+Before hiring a developer, make sure that Manim is the right tool for what you are trying to produce:
 
-<!-- Manim is most suited for cases where you can animate something more **efficiently by writing a program for it**, instead of doing it manually.
+<div class="alert" markdown="0">Manim is most suited for cases where you can animate something mathematical more efficiently by <u>writing a program</u>, instead of doing it manually by clicking around.</div>
 
-Grant Sanderson [gives the following advice](https://youtu.be/ruUfqQPDdDs?t=138):
+We created a chart that can help you to decide:
 
-> Step one is, make sure that what you're animating should be done so, programmatically—because a lot of things maybe shouldn't. If you're just making a quick graph of something—if it's a graphical intuition that maybe has a little motion to it—use [Desmos](https://www.desmos.com/), [Grapher](https://en.wikipedia.org/wiki/Grapher), [Geogebra](https://www.geogebra.org/), [Mathematica](https://www.wolfram.com/mathematica/), certain things that are really oriented around graphs.
->
-> The original thought I had in making Manim was that there are so many different ways of representing functions—other than graphs—in particular things like transformations. For example, use movement over time to communicate relationships between inputs and outputs instead of x and y directions, or vector fields, or things like that.
->
-> I wanted something that was flexible enough that you didn't feel constrained into a graphical environment—by graphical I mean graphs with x and y coordinates. But also make sure that you're taking advantage of the fact that it's programmatic. You have loops, conditionals, abstraction. If any of those are well fit for what you want to teach, to have
->
-> - a scene type that you tweak a little bit based on parameters,
-> - conditionals so that things can go one way or another,
-> - loops so that you can create things of arbitrarily increasing complexity,
->
-> that's the stuff that's meant to be animated programmatically. **If it's just writing some text on the screen or shifting around objects or something like that, you should probably just use [Keynote](https://www.apple.com/keynote)—it will be a lot simpler.**
->
-> Try to find a workflow that distills down that which should be programmatic into Manim, and that which doesn't need to be
-> into other domains. -->
+{:refdef: style="text-align: center;"}
+![Manim decision flowchart](/assets/img/manim_flowchart.svg)
+{: refdef}
 
-### Reach out to a developer
+This advice here comes from Grant Sanderson, the creator of Manim, himself. [Click here](/do-you-need-manim#grants-advice) to watch what he has to say.
+
+### Reaching out to a developer
 
 TBD
 

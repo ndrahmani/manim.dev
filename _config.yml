@@ -22,6 +22,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-remote-theme
+  - jekyll-youtube
 
 header_pages:
   - resources.md
