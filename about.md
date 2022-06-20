@@ -3,7 +3,7 @@ layout: page
 title:  "About"
 ---
 
-𝚖𝚊𝚗𝚒𝚖.𝚍𝚎𝚟 is a roster and job board for Manim developers. Our goal is to offer useful information in one place and improve the discoverability of developers.
+𝚖𝚊𝚗𝚒𝚖.𝚍𝚎𝚟 is a roster and job board for Manim developers. It seeks to offer useful information in one place and improve the discoverability of Manim Developers.
 
 ## About Manim
 
