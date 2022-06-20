@@ -95,7 +95,7 @@ website: manimchad.com
 Your Discord handle and ID.
 
 - Discord handle: is your human-readable username that ends with # and 4 numbers.
-- Discord ID: the unique numeric ID that Discord assigns you when you first create an account. To find out yours, visit [this webpage](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-).
+- Discord ID: the unique numeric ID that Discord assigns you when you first create an account. To find out yours, visit [this page](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-).
 
 Eventually, the entries should look like this:
 
